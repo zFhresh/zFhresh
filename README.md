@@ -1,7 +1,5 @@
 # 💫 About Me:
 Hello👋🏻<br/>
-20 years old Turkish student, studying in Computer Programming
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
